@@ -9,7 +9,7 @@ Güvenlik Sistemi PCB kartı [linkteki](https://www.udemy.com/course/altium-desi
 - Gerçek Zamanlı Saat ve Sıcaklık sensörü ile kullanıcıya bu bilgileri verebilmektedir.
 - Hareket algılama sensörü ile sesli şekilde uyarı vermektedir. 
 - Şematik kısımda yolları gruplandırmak için Harness yapısı, hiyerarşik yapı oluşturmak için Multi Sheet kullanılmıştır.
-- PCB kartımız ayrıca 4 katmanlıdır. 
+- PCB kartı ayrıca 4 katmanlıdır. 
 
 ##
 ***Altium ile PCB Çizimi konusunda yaptığım çalışmalar ile derleyip oluşturduğum belgeye [linkten](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/blob/main/altium_ile_pcb_cizimi.pdf) ulaşabilirsiniz.***
