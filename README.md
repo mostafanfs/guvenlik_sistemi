@@ -11,6 +11,10 @@ Güvenlik Sistemi PCB kartı [linkteki](https://www.udemy.com/course/altium-desi
 - Şematik kısımda yolları gruplandırmak için Harness yapısı, hiyerarşik yapı oluşturmak için Multi Sheet kullanılmıştır.
 - PCB kartımız ayrıca 4 katmanlıdır. 
 
+##
+***Altuim ile PCB Çizimi konusunda öğrendiğim kaynaklardan derlediğim çalışmalara [linkten](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/blob/main/altium_ile_pcb_cizimi.pdf) ulaşabilirsiniz.***
+##
+
 <p align="left">
   <img src="https://user-images.githubusercontent.com/64609951/191980230-6f2ad06e-8c8e-4f04-85cb-fdf83916d3a6.png" width="900">
   <img src="https://user-images.githubusercontent.com/64609951/191980234-81fa3631-522d-4c5e-ac51-0479e9a4f21d.png" width="900">
