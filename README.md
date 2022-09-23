@@ -1,5 +1,16 @@
 # guvenlik_sistemi
 
+Güvenlik Sistemi PCB kartı [linkteki](https://www.udemy.com/course/altium-designer-donanim-tasarim/) eğitim izlenerek 19.09.2022 tarihinde tamamlanmıştır.
+
+- İşlemci olarak STM32F103C8T6 kullanılmıştır.
+- Kartımız 220V AC ile beslenmekte ve voltaj regülatörlerinden 12V, 5V ve 3.3V DC çıkış elde edilmektedir.
+- WI-FI modülü ile internete bağlanabilmektedir.
+- USB üzerinden bilgisayara veri aktarabilmektedir.
+- Gerçek Zamanlı Saat ve Sıcaklık sensörü ile kullanıcıya bu bilgileri verebilmektedir.
+- Hareket algılama sensörü ile sesli şekilde uyarı vermektedir. 
+- Şematik kısımda yolları gruplandırmak için Harness yapısı, hiyerarşik yapı oluşturmak için Multi Sheet kullanılmıştır.
+- PCB kartımız ayrıca 4 katmanlıdır. 
+
 <p align="left">
   <img src="https://user-images.githubusercontent.com/64609951/191980230-6f2ad06e-8c8e-4f04-85cb-fdf83916d3a6.png" width="900">
   <img src="https://user-images.githubusercontent.com/64609951/191980234-81fa3631-522d-4c5e-ac51-0479e9a4f21d.png" width="900">
