@@ -12,7 +12,7 @@ Güvenlik Sistemi PCB kartı [linkteki](https://www.udemy.com/course/altium-desi
 - PCB kartı ayrıca 4 katmanlıdır. 
 
 ##
-***Altium ile PCB Çizimi konusunda yaptığım çalışmaları derleyip oluşturduğum belgeye [linkten](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/blob/main/altium_ile_pcb_cizimi.pdf) ulaşabilirsiniz. Belge içerisinde kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili yazılara ulaşabilirsiniz.***
+***Altium ile PCB Çizimi konusunda yaptığım çalışmaları derleyip oluşturduğum belgeye [linkten](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/blob/main/altium_ile_pcb_cizimi.pdf) ulaşabilirsiniz. <br> Belge içerisinde kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili yazılara ulaşabilirsiniz.***
 ##
 
 <p align="left">
