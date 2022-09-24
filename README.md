@@ -1,6 +1,6 @@
 # guvenlik_sistemi
 
-Güvenlik Sistemi PCB kartı [linkteki](https://www.udemy.com/course/altium-designer-donanim-tasarim/) eğitim izlenerek 19.09.2022 tarihinde tamamlanmıştır.
+Güvenlik Sistemi PCB kartı [linkteki](https://www.udemy.com/course/altium-designer-donanim-tasarim/) eğitim referans alınarak 19.09.2022 tarihinde tamamlanmadım.
 
 - İşlemci olarak STM32F103C8T6 kullanılmıştır.
 - Kartımız 220V AC ile beslenmekte ve voltaj regülatörlerinden 12V, 5V ve 3.3V DC çıkış elde edilmektedir.
