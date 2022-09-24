@@ -7,7 +7,7 @@ Güvenlik Sistemi PCB kartı [linkteki](https://www.udemy.com/course/altium-desi
 - WI-FI modülü ile internete bağlanabilmektedir.
 - USB üzerinden bilgisayara veri aktarabilmektedir.
 - Gerçek Zamanlı Saat ve Sıcaklık sensörü ile kullanıcıya bu bilgileri verebilmektedir.
-- Hareket algılama sensörü ile sesli şekilde uyarı vermektedir. 
+- Hareket algılama sensörü ile uyarı vermektedir. 
 - Kartın bir bölümü kırılabilir yapıdadır. Bu kısım diğer bölüm ile ayrıdır ve konnektör ile bağlantı kurulmaktadır.
 - Şematik kısımda hiyerarşik yapı oluşturmak için Multi Sheet, yolları gruplandırmak için Harness yapısı kullanılmıştır.
 - PCB kartı 4 katmanlıdır.
